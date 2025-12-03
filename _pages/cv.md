@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe 
+    src="{{ '/assets/pdfs/Angelina_CV.pdf' | relative_url }}" 
+    width="100%" 
+    height="800px">
+</iframe>
+
 Education
 ======
-<embed src="files/Angelina_CV.pdf" type="application/pdf" width="100%" height="500px">
-
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
