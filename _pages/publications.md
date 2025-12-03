@@ -30,6 +30,6 @@ Oral Presentations
 
 Poster Presentations
 ------
-* “SAR‑SSL: A Comprehensive Benchmark for Self‑Supervised Object Detection in Synthetic Aperture Radar Imagery,” in Texas A&M University ECE Fall Graduate Poster Event, College Station, TX, November 2025. [Link](https://drive.google.com/file/d/1YWgWcXTyprQ-MjKXeE8C46eeplPVv0JD/view?usp=drive_link)
+* “SAR‑SSL: A Comprehensive Benchmark for Self‑Supervised Object Detection in Synthetic Aperture Radar Imagery,” in *Texas A&M University ECE Fall Graduate Poster Event*, College Station, TX, November 2025. [Link](https://drive.google.com/file/d/1YWgWcXTyprQ-MjKXeE8C46eeplPVv0JD/view?usp=drive_link)
 
 * “Patch distribution modeling framework adaptive cosine estimator (PaDiM‑ACE) for anomaly detection and localization in synthetic aperture radar imagery,” in *Algorithms for Synthetic Aperture Radar Imagery XXXII*, International Society for Optics and Photonics (SPIE), Orlando, FL, April 2025. [Link](https://drive.google.com/file/d/1Xt_K-3EPJu4_9s_rOoD62vMJTtrZ06ev/view?usp=drive_link)
