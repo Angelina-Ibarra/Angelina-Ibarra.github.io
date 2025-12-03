@@ -11,7 +11,20 @@ Hello! My name is Angelina Ibarra and I am a PhD student at Texas A&M University
 
 <!-- Create content & metadata -->
 ------
+<figure>
+  <img src="{{ 'images/spie_poster.PNG' | relative_url }}" alt="spie poster" style="width:100%; max-width:600px;">
+  <figcaption style="text-align:center; font-size:0.9em; color:#666;">
+    PaDiM-ACE poster presentation at the SPIE Defense + Commercial Sensing conference.
+  </figcaption>
+</figure>
 
+
+<figure>
+  <img src="{{ 'images/SAR-SSL_poster.PNG' | relative_url }}" alt="spie poster" style="width:100%; max-width:600px;">
+  <figcaption style="text-align:center; font-size:0.9em; color:#666;">
+    SAR-SSL poster presentation at the Texas A&M University ECE graduate student poster event (Fall 2025).
+  </figcaption>
+</figure>
 
 <!-- How to edit your site's GitHub repository
 ------
