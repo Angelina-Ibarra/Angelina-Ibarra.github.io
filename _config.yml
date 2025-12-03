@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Angelina Ibarra"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Computer Engineering PhD student"
   location         : "College Station"
   employer         : "Texas A&M University"
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "angelinaibarra24"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
