@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe 
-    src="{{ '/assets/pdfs/Angelina_CV.pdf' | relative_url }}" 
+    src="{{ '/assets/pdfs/CV.pdf' | relative_url }}" 
     width="100%" 
     height="800px">
 </iframe>
